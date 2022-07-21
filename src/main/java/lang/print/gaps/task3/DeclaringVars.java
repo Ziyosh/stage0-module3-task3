@@ -9,3 +9,4 @@ public class DeclaringVars {
         System.out.println(c);
     }
 }
+
